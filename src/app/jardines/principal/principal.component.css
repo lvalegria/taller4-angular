@@ -1,0 +1,15 @@
+.jardinesPrincipal{
+    padding: 8%;
+}
+
+#jardinesTitulo{
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 5em;
+    color: rgb(77, 218, 77);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jardinesTexto{
+    padding-top: 1em;
+}
